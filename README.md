@@ -1,1 +1,1 @@
-# Excel-Project
+This is an Excel Project I did from a boot camp I did (courseCareers). It was a data set about movies and included doing data cleaning along with using formulas and lookups. Using inflation numbers by getting an average percent and applying it to predict price. It also involved using pivot tables and answering a series of questions.
